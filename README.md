@@ -1,16 +1,12 @@
-<div align="center">
-  <h1>🚀 LimitX</h1>
-  <h3>Lightweight Token Bucket Rate Limiter for Node.js</h3>
+# 🚀 LimitX
+### Lightweight Token Bucket Rate Limiter for Node.js
 
-  <p>Fast • Simple • Stable • API-Friendly</p>
+Fast • Simple • Stable • API-Friendly
 
-  <p>
-    [![npm version](https://img.shields.io/npm/v/limitx.svg)](https://www.npmjs.com/package/limitx)
-    [![npm downloads](https://img.shields.io/npm/dt/limitx.svg)](https://www.npmjs.com/package/limitx)
-    [![Node version](https://img.shields.io/badge/node-%3E=14-green)](https://nodejs.org/)
-    [![License](https://img.shields.io/github/license/gurusharankumarram1/limitx)](https://github.com/gurusharankumarram1/limitx/blob/main/LICENSE)
-  </p>
-</div>
+[![npm version](https://img.shields.io/npm/v/limitx.svg)](https://www.npmjs.com/package/limitx) 
+[![npm downloads](https://img.shields.io/npm/dt/limitx.svg)](https://www.npmjs.com/package/limitx) 
+[![Node version](https://img.shields.io/badge/node-%3E=14-green)](https://nodejs.org/) 
+[![License](https://img.shields.io/github/license/gurusharankumarram1/limitx)](https://github.com/gurusharankumarram1/limitx/blob/main/LICENSE)
 
 ---
 
