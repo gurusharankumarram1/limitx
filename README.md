@@ -234,6 +234,3 @@ Stops the internal cleanup timer.
 <div align="center">
   <b>LimitX — Simple. Fast. Stable. A modern rate limiter for Node.js backends.</b>
 </div>
-```
-
----
