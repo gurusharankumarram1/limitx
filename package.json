@@ -1,0 +1,47 @@
+{
+  "name": "limitx",
+  "version": "1.0.0",
+  "description": "Lightweight token bucket rate limiter for Node.js APIs",
+  "type": "commonjs",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "rate limiter",
+    "token bucket",
+    "rate-limiter",
+    "token-bucket",
+    "throttling",
+    "api rate limit",
+    "request limiter",
+    "api protection",
+    "backend",
+    "nodejs",
+    "express",
+    "fastify",
+    "koa",
+    "middleware",
+    "limitx",
+    "rate limit",
+    "node module",
+    "npm package"
+  ],
+  "author": "gurusharankumarram1",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gurusharankumarram1/limitx"
+  },
+  "bugs": {
+    "url": "https://github.com/gurusharankumarram1/limitx/issues"
+  },
+  "homepage": "https://github.com/gurusharankumarram1/limitx#readme"
+}
