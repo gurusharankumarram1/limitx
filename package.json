@@ -1,6 +1,6 @@
 {
   "name": "limitx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight token bucket rate limiter for Node.js APIs",
   "type": "commonjs",
   "main": "index.js",

@@ -5,10 +5,10 @@
   <p>Fast • Simple • Stable • API-Friendly</p>
 
   <p>
-    <img src="https://img.shields.io/npm/v/limitx.svg" />
-    <img src="https://img.shields.io/npm/dm/limitx.svg" />
-    <img src="https://img.shields.io/badge/node-%3E=14-green" />
-    <img src="https://img.shields.io/github/license/gurusharankumarram1/limitx" />
+    [![npm version](https://img.shields.io/npm/v/limitx.svg)](https://www.npmjs.com/package/limitx)
+    [![npm downloads](https://img.shields.io/npm/dt/limitx.svg)](https://www.npmjs.com/package/limitx)
+    [![Node version](https://img.shields.io/badge/node-%3E=14-green)](https://nodejs.org/)
+    [![License](https://img.shields.io/github/license/gurusharankumarram1/limitx)](https://github.com/gurusharankumarram1/limitx/blob/main/LICENSE)
   </p>
 </div>
 
